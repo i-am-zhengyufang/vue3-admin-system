@@ -1,0 +1,5 @@
+@mixin round-icon($padding: 5px, $bgc) {
+  padding: $padding;
+  background-color: $bgc;
+  border-radius: 50%;
+}
