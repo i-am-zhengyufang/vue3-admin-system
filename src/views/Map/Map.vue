@@ -2,7 +2,7 @@
 <template>
   <baidu-map
     class="admin-map"
-    ak="自己的ak"
+    ak="需要申请换成自己的ak"
     v="3.0"
     type="WebGL"
     center="北京"
@@ -17,7 +17,7 @@ import { BaiduMap } from "vue-baidu-map-3x";
 const mapReady = ({ BMap, map }) => {
   map.setMapStyleV2({
     styleId: "7fbf433b917f6ca463cb73378a6bb226",
-    设置自定义风格,
+    //设置地图自定义风格，百度api上也有说明
   });
 };
 </script>
