@@ -30,49 +30,10 @@ admin-system，基于Vue 3.2 + Vite2.0 + Pinia + Vite2 + Element-Plus + Vue-rout
 
 ### 🍐🍐在线预览
 
-戳戳我：http://zhengyufang.top/
+戳戳我：https://admin-system.zhengyufang.top/
+同时欢迎访问我的博客:https://zhengyufang.top/哦
 
 
-
-### 🍊🍊项目部分截图
-
-**登录**
-
-![1](screenshots/1.png)
-
-**首页1**
-
-![2](screenshots/2.png)
-
-**首页2**
-
-![3](screenshots/3.png)
-
-
-
-**人员表格1**
-
-![4](screenshots/4.png)
-
-**人员表格2**
-
-![5](screenshots/5.png)
-
-**消息中心**
-
-![6](screenshots/6.png)
-
-**放大镜**
-
-![7](screenshots/7.png)
-
-**地图**
-
-![8](screenshots/8.png)
-
-**国际化**
-
-![9](screenshots/9.png)
 
 ### 🥝🥝使用
 
